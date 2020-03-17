@@ -1,0 +1,11 @@
+pandas
+#sklearn
+#spacy
+#matplotlib
+#numpy
+#gensim
+#unidecode
+#tensorflow
+nltk
+pytest
+jupytext
